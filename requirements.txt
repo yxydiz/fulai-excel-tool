@@ -1,0 +1,6 @@
+numpy
+soundcard
+faster-whisper
+openai
+pydantic
+python-dateutil
