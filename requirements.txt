@@ -4,3 +4,6 @@ faster-whisper
 openai
 pydantic
 python-dateutil
+streamlit
+pandas
+openpyxl
